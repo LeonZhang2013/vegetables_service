@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="f4756cb6-03b9-4cf3-bc25-2bfc710f925b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="vegetables" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ManagerUserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/ManagerUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="48" column="17" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySql.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/utils/MySql.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WalletService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/WalletService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/PayController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="73" column="60" lean-forward="false" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Alipay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/config/Alipay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderManagerService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderManagerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12">
+              <caret line="304" column="18" lean-forward="false" selection-start-line="304" selection-start-column="18" selection-end-line="304" selection-end-column="18" />
+              <folding>
+                <marker date="1521361563828" expanded="true" signature="8019:8143" ph="update suppl... " />
+                <marker date="1521361563828" expanded="true" signature="8278:8365" ph="insert into supplier_order... " />
+                <marker date="1521361563828" expanded="true" signature="8634:8714" ph="update user_... " />
+                <marker date="1521361563828" expanded="true" signature="9095:9163" ph="insert into freight... " />
+                <marker date="1521361563828" expanded="true" signature="9560:9740" ph="update user_... " />
+                <marker date="1521361563828" expanded="true" signature="9885:10066" ph="update proxy... " />
+                <marker date="1521361563828" expanded="true" signature="10814:10869" ph="UPDATE walle... " />
+                <marker date="1521361563828" expanded="true" signature="11794:11842" ph="UPDATE walle... " />
+                <marker date="1521361563828" expanded="true" signature="12046:12101" ph="UPDATE walle... " />
+                <marker date="1521361563828" expanded="true" signature="13875:14000" ph="select o.*,p... user_order" />
+                <marker date="1521361563828" expanded="true" signature="14254:14307" ph="UPDATE walle... " />
+                <marker date="1521361563828" expanded="true" signature="16932:17042" ph="INSERT INTO wallet_record... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AliYunSMS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/config/AliYunSMS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+              <folding>
+                <marker date="1517896722306" expanded="true" signature="1838:1898" ph="select * fro... shop_cart" />
+                <marker date="1517896722306" expanded="true" signature="2200:2241" ph="update shop_... " />
+                <marker date="1517896722306" expanded="true" signature="2347:2408" ph="insert into shop_cart... " />
+                <marker date="1517896722306" expanded="true" signature="2697:2735" ph="select stock... product" />
+                <marker date="1517896722306" expanded="true" signature="3139:3180" ph="update produ... " />
+                <marker date="1517896722306" expanded="true" signature="3997:4058" ph="update shop_... " />
+                <marker date="1517896722306" expanded="true" signature="7564:7648" ph="select sum(s... user_order" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/AuthService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DistributionService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/DistributionService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <marker date="1517896722307" expanded="true" signature="2539:2637" ph="UPDATE proxy... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>purchaseItem</find>
+      <find>generateSupplierOrder</find>
+      <find>payed_price</find>
+      <find>getItemList</find>
+      <find>addOrder</find>
+      <find>getShopCartList</find>
+      <find>getOrderDetail</find>
+      <find>pay</find>
+      <find>getCheckItem</find>
+      <find>addShopcart</find>
+      <find>getCategoryList</find>
+      <find>price</find>
+      <find>percent_price</find>
+      <find>getUserList</find>
+      <find>item</find>
+      <find>item_id</find>
+      <find>orderSQL</find>
+      <find>prod</find>
+      <find>freight</find>
+      <find>wd</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>product</replace>
+      <replace>product_id</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/CategoryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/bean/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/AttributeController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/AttributeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/TianYuService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/AttributeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/CommonSerive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/WebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/utils/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/dao/beans/OrderOperation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/GroupService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/BugGroupController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/bean/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/bean/User.java" />
+        <option value="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.jar!/ch/qos/logback/classic/db/script/h2.sql" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/config/AliYunSMS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/CommonController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/utils/SQLTools.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/UserManagerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/dao/beans/Freight.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/bean/Attribute.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/dao/AttributeDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/BaseService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/OrderManagerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/dao/beans/TempOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/OrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/utils/Arith.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/config/Alipay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/dao/ProductDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/interceptor/UserSecurityInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/dao/beans/OrderStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/AuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/PurchaseController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/ProductManagerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/PurchaseService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderManagerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/ManagerUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/utils/MySql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/PayController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="vegetables" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="vegetables" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="51" />
+    <option name="y" value="33" />
+    <option name="width" value="1440" />
+    <option name="height" value="858" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vegetables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vegetable_service_new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vegetables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vegetable_service_new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vegetables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vegetable_service_new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vegetables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vegetable_service_new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vegetables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vegetable_service_new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vegetables" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vegetables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vegetable_service_new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vegetables" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vegetables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vegetable_service_new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vegetables" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vegetables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vegetable_service_new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vegetables" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vegetables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vegetable_service_new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vegetables" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vegetables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vegetable_service_new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vegetables" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vegetables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vegetable_service_new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zhongshu-admin" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhongshu.vegetables.controller.back" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\vegetable\vegetable_service_new\libs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.VegetablesApplication">
+    <configuration name="VegetablesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhongshu.vegetables.VegetablesApplication" />
+      <module name="vegetables" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\yy520\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\vegetable\vegetable_service_new" />
+          <option name="myCopyRoot" value="F:\vegetable\vegetable_service_new" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\vegetable\vegetable_service_new" />
+          <option name="myCopyRoot" value="F:\vegetable\vegetable_service_new" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4756cb6-03b9-4cf3-bc25-2bfc710f925b" name="Default" comment="" />
+      <created>1513584247156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513584247156</updated>
+      <workItem from="1513584253797" duration="1499000" />
+      <workItem from="1513619501927" duration="1670000" />
+      <workItem from="1513649666226" duration="728000" />
+      <workItem from="1513674024988" duration="14402000" />
+      <workItem from="1513693249517" duration="2357000" />
+      <workItem from="1513732342262" duration="12761000" />
+      <workItem from="1513757676634" duration="24000" />
+      <workItem from="1513825435894" duration="22597000" />
+      <workItem from="1513888226097" duration="6360000" />
+      <workItem from="1513938680219" duration="1831000" />
+      <workItem from="1513993691521" duration="28000" />
+      <workItem from="1513998256812" duration="1894000" />
+      <workItem from="1515228573653" duration="2692000" />
+      <workItem from="1515321168103" duration="39154000" />
+      <workItem from="1515662306894" duration="595000" />
+      <workItem from="1515727267504" duration="147892000" />
+      <workItem from="1516518140201" duration="15995000" />
+      <workItem from="1516588822310" duration="1029000" />
+      <workItem from="1516603912823" duration="1304000" />
+      <workItem from="1516858467489" duration="456000" />
+      <workItem from="1516864573833" duration="299000" />
+      <workItem from="1516937686403" duration="5379000" />
+      <workItem from="1517024478715" duration="32000" />
+      <workItem from="1517032750628" duration="4807000" />
+      <workItem from="1517229122613" duration="1009000" />
+      <workItem from="1517303490271" duration="3000" />
+      <workItem from="1517309024784" duration="96000" />
+      <workItem from="1517311031124" duration="1961000" />
+      <workItem from="1517377916649" duration="10000" />
+      <workItem from="1517403424967" duration="1275000" />
+      <workItem from="1517469561500" duration="2245000" />
+      <workItem from="1517569683136" duration="1549000" />
+      <workItem from="1517896760409" duration="1543000" />
+      <workItem from="1517992245571" duration="1314000" />
+      <workItem from="1518005200106" duration="130000" />
+      <workItem from="1518415118757" duration="100000" />
+      <workItem from="1520153262385" duration="724000" />
+      <workItem from="1520911679263" duration="216000" />
+      <workItem from="1521082122335" duration="2135000" />
+      <workItem from="1521166199994" duration="1455000" />
+      <workItem from="1521175552952" duration="20000" />
+      <workItem from="1521356043890" duration="3268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="304838000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32795697" sideWeight="0.5057307" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1260745" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27419356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2889785" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32258064" sideWeight="0.49426934" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29301074" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6075269" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23065902" sideWeight="0.49227372" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22492836" sideWeight="0.50772625" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22492836" sideWeight="0.50701404" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09139785" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32795697" sideWeight="0.5057307" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.046561606" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48118278" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29032257" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32258064" sideWeight="0.49426934" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11290322" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6075269" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10243553" sideWeight="0.49227372" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22492836" sideWeight="0.50772625" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09139785" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22492836" sideWeight="0.50701404" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/PurchaseService.java</url>
+          <line>252</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/utils/MySql.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/UserController.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="314" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderManagerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4981">
+          <caret line="324" column="46" lean-forward="false" selection-start-line="324" selection-start-column="46" selection-end-line="324" selection-end-column="46" />
+          <folding>
+            <marker date="1521361563828" expanded="true" signature="8019:8143" ph="update suppl... " />
+            <marker date="1521361563828" expanded="true" signature="8278:8365" ph="insert into supplier_order... " />
+            <marker date="1521361563828" expanded="true" signature="8634:8714" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9095:9163" ph="insert into freight... " />
+            <marker date="1521361563828" expanded="true" signature="9560:9740" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9885:10066" ph="update proxy... " />
+            <marker date="1521361563828" expanded="true" signature="10814:10869" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="11794:11842" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="12046:12101" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="13875:14000" ph="select o.*,p... user_order" />
+            <marker date="1521361563828" expanded="true" signature="14254:14307" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="16932:17042" ph="INSERT INTO wallet_record... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/my.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/utils/MySql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="68" lean-forward="false" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+          <folding>
+            <marker date="1517896722304" expanded="true" signature="5111:5227" ph="SELECT u.rol... user" />
+            <marker date="1517896722304" expanded="true" signature="5129:5180" ph="select role_... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/ManagerUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="17" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/dao/CommonDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <marker date="1517192531249" expanded="true" signature="841:915" ph="select * fro... version" />
+            <marker date="1517192531249" expanded="true" signature="1365:1436" ph="select * fro... role" />
+            <marker date="1517192531249" expanded="true" signature="1391:1427" ph="select `leve... role" />
+            <marker date="1517192531249" expanded="true" signature="1651:1669" ph="select * fro... role" />
+            <marker date="1517192531249" expanded="true" signature="1867:1898" ph="select * fro... role" />
+            <marker date="1517192531249" expanded="true" signature="2130:2184" ph="select * fro... notice" />
+            <marker date="1517192531249" expanded="true" signature="2417:2441" ph="SELECT * FRO... permission" />
+            <marker date="1517192531249" expanded="true" signature="2579:2624" ph="delete from " />
+            <marker date="1517192531249" expanded="true" signature="2801:2878" ph="insert into role_permission... " />
+            <marker date="1517192531249" expanded="true" signature="3041:3088" ph="select * fro... role_permission" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="70" column="60" lean-forward="false" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderManagerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4981">
+          <caret line="324" column="46" lean-forward="false" selection-start-line="324" selection-start-column="46" selection-end-line="324" selection-end-column="46" />
+          <folding>
+            <marker date="1521361563828" expanded="true" signature="8019:8143" ph="update suppl... " />
+            <marker date="1521361563828" expanded="true" signature="8278:8365" ph="insert into supplier_order... " />
+            <marker date="1521361563828" expanded="true" signature="8634:8714" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9095:9163" ph="insert into freight... " />
+            <marker date="1521361563828" expanded="true" signature="9560:9740" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9885:10066" ph="update proxy... " />
+            <marker date="1521361563828" expanded="true" signature="10814:10869" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="11794:11842" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="12046:12101" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="13875:14000" ph="select o.*,p... user_order" />
+            <marker date="1521361563828" expanded="true" signature="14254:14307" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="16932:17042" ph="INSERT INTO wallet_record... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/my.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/utils/MySql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="68" lean-forward="false" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+          <folding>
+            <marker date="1517896722304" expanded="true" signature="5111:5227" ph="SELECT u.rol... user" />
+            <marker date="1517896722304" expanded="true" signature="5129:5180" ph="select role_... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/utils/MySql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/dao/CommonDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <marker date="1517192531249" expanded="true" signature="841:915" ph="select * fro... version" />
+            <marker date="1517192531249" expanded="true" signature="1365:1436" ph="select * fro... role" />
+            <marker date="1517192531249" expanded="true" signature="1391:1427" ph="select `leve... role" />
+            <marker date="1517192531249" expanded="true" signature="1651:1669" ph="select * fro... role" />
+            <marker date="1517192531249" expanded="true" signature="1867:1898" ph="select * fro... role" />
+            <marker date="1517192531249" expanded="true" signature="2130:2184" ph="select * fro... notice" />
+            <marker date="1517192531249" expanded="true" signature="2417:2441" ph="SELECT * FRO... permission" />
+            <marker date="1517192531249" expanded="true" signature="2579:2624" ph="delete from " />
+            <marker date="1517192531249" expanded="true" signature="2801:2878" ph="insert into role_permission... " />
+            <marker date="1517192531249" expanded="true" signature="3041:3088" ph="select * fro... role_permission" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="70" column="60" lean-forward="false" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderManagerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5508">
+          <caret line="324" column="46" lean-forward="false" selection-start-line="324" selection-start-column="46" selection-end-line="324" selection-end-column="46" />
+          <folding>
+            <marker date="1521361563828" expanded="true" signature="8019:8143" ph="update suppl... " />
+            <marker date="1521361563828" expanded="true" signature="8278:8365" ph="insert into supplier_order... " />
+            <marker date="1521361563828" expanded="true" signature="8634:8714" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9095:9163" ph="insert into freight... " />
+            <marker date="1521361563828" expanded="true" signature="9560:9740" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9885:10066" ph="update proxy... " />
+            <marker date="1521361563828" expanded="true" signature="10814:10869" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="11794:11842" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="12046:12101" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="13875:14000" ph="select o.*,p... user_order" />
+            <marker date="1521361563828" expanded="true" signature="14254:14307" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="16932:17042" ph="INSERT INTO wallet_record... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/my.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/ManagerUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="60" lean-forward="false" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderManagerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5508">
+          <caret line="324" column="46" lean-forward="false" selection-start-line="324" selection-start-column="46" selection-end-line="324" selection-end-column="46" />
+          <folding>
+            <marker date="1521361563828" expanded="true" signature="8019:8143" ph="update suppl... " />
+            <marker date="1521361563828" expanded="true" signature="8278:8365" ph="insert into supplier_order... " />
+            <marker date="1521361563828" expanded="true" signature="8634:8714" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9095:9163" ph="insert into freight... " />
+            <marker date="1521361563828" expanded="true" signature="9560:9740" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9885:10066" ph="update proxy... " />
+            <marker date="1521361563828" expanded="true" signature="10814:10869" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="11794:11842" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="12046:12101" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="13875:14000" ph="select o.*,p... user_order" />
+            <marker date="1521361563828" expanded="true" signature="14254:14307" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="16932:17042" ph="INSERT INTO wallet_record... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="60" lean-forward="false" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderManagerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5508">
+          <caret line="324" column="46" lean-forward="true" selection-start-line="324" selection-start-column="46" selection-end-line="324" selection-end-column="46" />
+          <folding>
+            <marker date="1521361563828" expanded="true" signature="8019:8143" ph="update suppl... " />
+            <marker date="1521361563828" expanded="true" signature="8278:8365" ph="insert into supplier_order... " />
+            <marker date="1521361563828" expanded="true" signature="8634:8714" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9095:9163" ph="insert into freight... " />
+            <marker date="1521361563828" expanded="true" signature="9560:9740" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9885:10066" ph="update proxy... " />
+            <marker date="1521361563828" expanded="true" signature="10814:10869" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="11794:11842" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="12046:12101" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="13875:14000" ph="select o.*,p... user_order" />
+            <marker date="1521361563828" expanded="true" signature="14254:14307" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="16932:17042" ph="INSERT INTO wallet_record... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="60" lean-forward="false" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderManagerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5457">
+          <caret line="321" column="9" lean-forward="false" selection-start-line="321" selection-start-column="9" selection-end-line="321" selection-end-column="9" />
+          <folding>
+            <marker date="1521361563828" expanded="true" signature="8019:8143" ph="update suppl... " />
+            <marker date="1521361563828" expanded="true" signature="8278:8365" ph="insert into supplier_order... " />
+            <marker date="1521361563828" expanded="true" signature="8634:8714" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9095:9163" ph="insert into freight... " />
+            <marker date="1521361563828" expanded="true" signature="9560:9740" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9885:10066" ph="update proxy... " />
+            <marker date="1521361563828" expanded="true" signature="10814:10869" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="11794:11842" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="12046:12101" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="13875:14000" ph="select o.*,p... user_order" />
+            <marker date="1521361563828" expanded="true" signature="14254:14307" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="16932:17042" ph="INSERT INTO wallet_record... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="60" lean-forward="false" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderManagerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5457">
+          <caret line="321" column="9" lean-forward="false" selection-start-line="321" selection-start-column="9" selection-end-line="321" selection-end-column="9" />
+          <folding>
+            <marker date="1521361563828" expanded="true" signature="8019:8143" ph="update suppl... " />
+            <marker date="1521361563828" expanded="true" signature="8278:8365" ph="insert into supplier_order... " />
+            <marker date="1521361563828" expanded="true" signature="8634:8714" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9095:9163" ph="insert into freight... " />
+            <marker date="1521361563828" expanded="true" signature="9560:9740" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9885:10066" ph="update proxy... " />
+            <marker date="1521361563828" expanded="true" signature="10814:10869" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="11794:11842" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="12046:12101" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="13875:14000" ph="select o.*,p... user_order" />
+            <marker date="1521361563828" expanded="true" signature="14254:14307" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="16932:17042" ph="INSERT INTO wallet_record... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/my.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.13.RELEASE/spring-jdbc-4.3.13.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/dao/CommonDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <marker date="1517192531249" expanded="true" signature="841:915" ph="select * fro... version" />
+            <marker date="1517192531249" expanded="true" signature="1365:1436" ph="select * fro... role" />
+            <marker date="1517192531249" expanded="true" signature="1391:1427" ph="select `leve... role" />
+            <marker date="1517192531249" expanded="true" signature="1651:1669" ph="select * fro... role" />
+            <marker date="1517192531249" expanded="true" signature="1867:1898" ph="select * fro... role" />
+            <marker date="1517192531249" expanded="true" signature="2130:2184" ph="select * fro... notice" />
+            <marker date="1517192531249" expanded="true" signature="2417:2441" ph="SELECT * FRO... permission" />
+            <marker date="1517192531249" expanded="true" signature="2579:2624" ph="delete from " />
+            <marker date="1517192531249" expanded="true" signature="2801:2878" ph="insert into role_permission... " />
+            <marker date="1517192531249" expanded="true" signature="3041:3088" ph="select * fro... role_permission" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="36" column="68" lean-forward="false" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+          <folding>
+            <marker date="1517896722304" expanded="true" signature="5111:5227" ph="SELECT u.rol... user" />
+            <marker date="1517896722304" expanded="true" signature="5129:5180" ph="select role_... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/ManagerUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="48" column="17" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/utils/MySql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/WalletService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding>
+            <marker date="1517896722306" expanded="true" signature="1838:1898" ph="select * fro... shop_cart" />
+            <marker date="1517896722306" expanded="true" signature="2200:2241" ph="update shop_... " />
+            <marker date="1517896722306" expanded="true" signature="2347:2408" ph="insert into shop_cart... " />
+            <marker date="1517896722306" expanded="true" signature="2697:2735" ph="select stock... product" />
+            <marker date="1517896722306" expanded="true" signature="3139:3180" ph="update produ... " />
+            <marker date="1517896722306" expanded="true" signature="3997:4058" ph="update shop_... " />
+            <marker date="1517896722306" expanded="true" signature="7564:7648" ph="select sum(s... user_order" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/DistributionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <marker date="1517896722307" expanded="true" signature="2539:2637" ph="UPDATE proxy... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/config/Alipay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/config/AliYunSMS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/controller/back/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="73" column="60" lean-forward="false" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhongshu/vegetables/service/back/OrderManagerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="304" column="18" lean-forward="false" selection-start-line="304" selection-start-column="18" selection-end-line="304" selection-end-column="18" />
+          <folding>
+            <marker date="1521361563828" expanded="true" signature="8019:8143" ph="update suppl... " />
+            <marker date="1521361563828" expanded="true" signature="8278:8365" ph="insert into supplier_order... " />
+            <marker date="1521361563828" expanded="true" signature="8634:8714" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9095:9163" ph="insert into freight... " />
+            <marker date="1521361563828" expanded="true" signature="9560:9740" ph="update user_... " />
+            <marker date="1521361563828" expanded="true" signature="9885:10066" ph="update proxy... " />
+            <marker date="1521361563828" expanded="true" signature="10814:10869" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="11794:11842" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="12046:12101" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="13875:14000" ph="select o.*,p... user_order" />
+            <marker date="1521361563828" expanded="true" signature="14254:14307" ph="UPDATE walle... " />
+            <marker date="1521361563828" expanded="true" signature="16932:17042" ph="INSERT INTO wallet_record... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>vegetables:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>vegetables</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

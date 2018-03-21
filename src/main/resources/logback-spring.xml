@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="false" scan="true" scanPeriod="1 seconds">
+    <!--项目名称-->
+    <contextName>vegetables</contextName>
+    <!--输出格式   property 声明变量使用 -->
+    <property name="PATTERN" value="%d{HH:mm:ss.SSS} %contextName [%thread] %-5level %logger{36} - %msg%n"/>
+    <property name="PATTERN2" value="%date %level [%thread] %logger{36} [%file : %line] %msg%n"/>
+    <!--输出路径-->
+    <property name="LOG_OUT_PATH" value="C:/vegetables/log/vegetable.txt"/>
+
+    <!--开发环境-->
+    <springProfile name="dev">
+        <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+            <encoder>
+                <pattern>${PATTERN}</pattern>
+            </encoder>
+        </appender>
+        <!--指定包的 日志打印 级别 TRACE, DEBUG, INFO, WARN, ERROR, All, OFF-->
+        <logger name="com.zhongshu.vegetables" level="WARN"></logger>
+        <root level="INFO">
+            <appender-ref ref="CONSOLE"/>
+        </root>
+    </springProfile>
+
+    <!--生成环境-->
+    <springProfile name="pro">
+        <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+            <encoder>
+                <pattern>${PATTERN}</pattern>
+            </encoder>
+        </appender>
+        <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+            <file>${LOG_OUT_PATH}</file>
+            <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+                <fileNamePattern>${LOG_OUT_PATH}.%d{yyyy-MM-dd}.zip</fileNamePattern>
+                <maxHistory>30</maxHistory>
+            </rollingPolicy>
+
+            <encoder>
+                <pattern>${PATTERN2}</pattern>
+                <charset>UTF-8</charset>
+            </encoder>
+        </appender>
+
+        <logger name="com.zhongshu.vegetables" level="INFO"/>
+        <root level="WARN">
+            <appender-ref ref="CONSOLE"/>
+            <appender-ref ref="FILE"/>
+        </root>
+    </springProfile>
+
+
+    <!-- %m输出的信息,%p日志级别,%t线程名,%d日期,%c类的全名,,,, -->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d %p (%file:%line\)- %m%n</pattern>
+            <charset>GBK</charset>
+        </encoder>
+    </appender>
+    <appender name="baselog"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <File>log/base.log</File>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>log/base.log.%d.%i</fileNamePattern>
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <!-- or whenever the file size reaches 64 MB -->
+                <maxFileSize>64 MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+        <encoder>
+            <pattern>
+                %d %p (%file:%line\)- %m%n
+            </pattern>
+            <charset>UTF-8</charset>
+            <!-- 此处设置字符集 -->
+        </encoder>
+    </appender>
+    <root level="info">
+        <appender-ref ref="STDOUT"/>
+    </root>
+    <logger name="com.ybf" level="DEBUG">
+        <appender-ref ref="baselog"/>
+    </logger>
+
+    <logger name="com.zhongshu.vegetables.dao" level="DEBUG">
+        <appender-ref ref="STDOUT" />
+    </logger>
+</configuration>
+
